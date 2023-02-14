@@ -71,14 +71,14 @@ p {
 }
 
 .stopwatch {
-    background-image: url("./img/stopwatch.jpeg");
+    background-image: url("../img/stopwatch.jpeg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
 
 .bmi {
-    background-image: url("./img/bmi.jpg");
+    background-image: url("../img/bmi.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -86,7 +86,7 @@ p {
 }
 
 .color-flipper {
-    background-image: url("./img/colorFlipper.jpg");
+    background-image: url("../img/colorFlipper.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
