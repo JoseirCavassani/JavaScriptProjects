@@ -105,6 +105,15 @@ p {
 
 }
 
+.weather {
+    background-image: url("../img/weather.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+
 @media screen and (max-width: 654px) {
     .box {
         background-color: whitesmoke;
